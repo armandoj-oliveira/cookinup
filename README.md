@@ -1,33 +1,69 @@
-# cookin-up
+# 🍽️ Cookin'Up
 
-This template should help get you started developing with Vue 3 in Vite.
+![Vue.js](https://img.shields.io/badge/Vue.js-Framework-4FC08D?style=for-the-badge&logo=vue.js)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-API-blue?style=for-the-badge&logo=openapi)
 
-## Recommended IDE Setup
+O **Cookin'Up** é um site desenvolvido com **Vue.js** que permite aos usuários selecionar os ingredientes que possuem em casa e gera receitas com base nesses ingredientes. O projeto utiliza **OpenAPI** para buscar receitas dinamicamente. Este projeto tem um foco educacional, sendo uma introdução ao uso do Vue.js e integração com APIs.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Type Support for `.vue` Imports in TS
+## 📌 **Índice**
+- [🚀 Tecnologias](#-tecnologias)
+- [⚡ Instalação](#-instalação)
+- [🎮 Como Usar](#-como-usar)
+- [🛠️ Funcionalidades](#%EF%B8%8F-funcionalidades)
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+---
 
-## Customize configuration
+## 🚀 **Tecnologias**
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- 🌿 [Vue.js](https://vuejs.org/) - Framework JavaScript para interfaces de usuário
+- ⚡ [Vite](https://vitejs.dev/) - Ferramenta para build rápida
+- 🔹 [TypeScript](https://www.typescriptlang.org/)
+- 🔗 [OpenAPI](https://www.openapis.org/) - Interface para consumo de dados de receitas
 
-## Project Setup
+---
 
+## ⚡ **Instalação**
+
+1️⃣ **Clone este repositório:**
+```sh
+git clone https://github.com/seu-usuario/cookin-up.git
+```
+
+2️⃣ **Acesse a pasta do projeto:**
+```sh
+cd cookin-up
+```
+
+3️⃣ **Instale as dependências:**
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
+4️⃣ **Inicie o servidor de desenvolvimento:**
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+5️⃣ **Abra no navegador:**
+O site estará disponível em **http://localhost:5173**
 
-```sh
-npm run build
-```
+---
+
+## 🎮 **Como Usar**
+1. Selecione os ingredientes que você tem em casa.
+2. O sistema buscará receitas compatíveis utilizando a API.
+
+---
+
+## 🛠️ **Funcionalidades**
+✔️ Busca de receitas baseadas em ingredientes selecionados
+✔️ Interface responsiva e amigável
+✔️ Integração com API utilizando OpenAPI
+
+---
+
+🚀 **Desenvolvido para fins de aprendizado com Vue.js e integração de APIs.**
+
