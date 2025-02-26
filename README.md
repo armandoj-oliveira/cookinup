@@ -47,9 +47,6 @@ npm install
 npm run dev
 ```
 
-5️⃣ **Abra no navegador:**
-O site estará disponível em **http://localhost:5173**
-
 ---
 
 ## 🎮 **Como Usar**
