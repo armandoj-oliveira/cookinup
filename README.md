@@ -29,7 +29,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 1️⃣ **Clone este repositório:**
 ```sh
-git clone https://github.com/seu-usuario/cookin-up.git
+git clone https://github.com/armandoj-oliveira/cookin-up.git
 ```
 
 2️⃣ **Acesse a pasta do projeto:**
